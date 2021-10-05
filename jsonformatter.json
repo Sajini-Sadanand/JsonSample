@@ -1,0 +1,12 @@
+﻿{
+  "lightModeCardImageURL": "https://d2at3p5zomuw02.cloudfront.net/mobile/VirtualCardLight.svg",
+  "darkModeCardImageURL": "https://d2at3p5zomuw02.cloudfront.net/mobile/VirtualCardDark.svg",
+  "lightModePrimaryBackgroundColor": "#FF643C",
+  "darkModePrimaryBackgroundColor": "#FF8566",
+  "lightModeHeaderImageURL": "https://d2at3p5zomuw02.cloudfront.net/mobile/MethodLogoIconLight.svg",
+  "darkModeHeaderImageURL": "https://d2at3p5zomuw02.cloudfront.net/mobile/PartnerLogoIconDark.svg",
+  "lightModePrimaryTextColor": "#FFFFFF",
+  "darkModePrimaryTextColor": "#232323",
+  "lightModePrimaryBackgroundTextColor": "#C3C1C0",
+  "darkModePrimaryBackgroundTextColor": "#0F0F0F"
+}
